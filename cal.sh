@@ -1,5 +1,7 @@
 
 #!/bin/bash
+
+this is commit
 echo -e  "\n\n =======CALUCULATER MENU======="
 echo -e " \n 1) ADD \n 2) SUB \n 3) MULTIPLICATION \n 4) DIVISION \n 5) EXIT \n 6) Factorial"
 
