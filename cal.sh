@@ -5,7 +5,7 @@ echo -e " \n 1) ADD \n 2) SUB \n 3) MULTIPLICATION \n 4) DIVISION \n 5) EXIT \n 
 
 echo " select one option in above MENU "
 read opt
-#set -x
+#set -x   
 case $opt in
   1) echo "enter  numbers for addition"
      read num
